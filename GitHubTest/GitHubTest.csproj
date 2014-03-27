@@ -160,6 +160,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\Default1Controller2.cs" />
+    <Compile Include="Controllers\Default1Controller3.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -225,6 +226,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Default1Controller2\" />
+    <Folder Include="Views\Default1Controller3\" />
     <Folder Include="Views\Default\" />
   </ItemGroup>
   <ItemGroup>
